@@ -7,6 +7,7 @@
 #### EfficientNet: 
 
 [GitHub Repo](https://github.com/qubvel/efficientnet)
+
 [Google AI Blog](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
 
 It is a novel model scaling method that uses a simple yet highly effective compound coefficient to scale up CNNs in a more structured manner. Unlike conventional approaches that arbitrarily scale network dimensions, such as width, depth and resolution, this method uniformly scales each dimension with a fixed set of scaling coefficients. 
